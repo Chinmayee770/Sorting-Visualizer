@@ -50,8 +50,6 @@ Simply open the `index.html` file in your preferred browser.
 4. Click the **Randomize** button to generate a new array.
 5. Press **Sort** to visualize the sorting process.
 
-## Demo
-*(Add a link to a live demo if available)*
 
 ## Contributing
 Feel free to fork the repository and submit pull requests with improvements!
